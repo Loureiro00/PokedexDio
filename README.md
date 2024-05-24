@@ -1,1 +1,1 @@
-# Projeto de criação da Pokedex com a API da PokeApi junto a DIO
+# Projeto de criação da Pokedex com a API da PokeApi 
